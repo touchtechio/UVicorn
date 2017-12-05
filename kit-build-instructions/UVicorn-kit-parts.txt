@@ -1,0 +1,24 @@
+Partlist
+
+Exported from UVicorn-v2.1-fixed-threshold.brd at 12/5/17 4:00 PM
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant:
+
+Part     Value          Package         Library             Position (inch)       Orientation
+
+C1       1UF            AXIAL-5MM       SparkFun-Capacitors (1.922 0.93)          MR258.3
+D1       UV-30mA        LED5MM_ANYSIDES matt                (0.842 1.386)         R90
+D2       UV-30mA        LED5MM_ANYSIDES matt                (0.47 0.914)          R90
+D3       UV-30mA        LED5MM_ANYSIDES matt                (0.094 0.446)         R90
+D4       WHITE-30mA     LED5MM_ANYSIDES matt                (1.662 1.73)          R156
+G1       battery-clip   CR2032-EDIT     adafruit            (1.456 1.274)         MR0
+G2       battery-clip   CR2032-EDIT     adafruit            (0.838 0.534)         MR315
+IC1      NE555          DIL-08          st-microelectronics (1.71 0.686)          MR250
+R1       100            AXIAL-0.3EZ     SparkFun-Resistors  (1.052 1.604)         R212.4
+R2       100            AXIAL-0.3EZ     SparkFun-Resistors  (0.65 1.148)          R225
+R3       100            AXIAL-0.3EZ     SparkFun-Resistors  (0.28 0.68)           R225
+R4       100            AXIAL-0.3EZ     SparkFun-Resistors  (1.99 1.658)          MR322.7
+R5       1k             AXIAL-0.3EZ     SparkFun-Resistors  (1.356 0.68)          MR294.4
+R6       470K           AXIAL-0.3EZ     SparkFun-Resistors  (1.806 0.426)         MR159.7
